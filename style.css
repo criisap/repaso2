@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'banderas';
+    src: url(font/banderas.ttf);
+}
+
+body { 
+    background-image: url(img/fondo.jpeg);
+    
+}
+table {
+    background-color: black;
+    text-align: center;
+    font-family: 'banderas';
+    font-size: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
